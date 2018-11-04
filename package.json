@@ -1,0 +1,35 @@
+{
+  "name": "beops",
+  "version": "1.0.0",
+  "description": "Devops utility tool for Birdeye",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishants/beops.git"
+  },
+  "keywords": [
+    "devops",
+    "jenkins",
+    "chromedriver",
+    "birdeye"
+  ],
+  "author": "nishant singh",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/nishants/beops/issues"
+  },
+  "homepage": "https://github.com/nishants/beops#readme",
+  "dependencies": {
+    "chromedriver": "^2.43.1",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "pryjs": "^1.0.3"
+  }
+}

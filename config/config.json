@@ -1,0 +1,9 @@
+{
+  "dashboardURL": "https://ci.birdeye.com/",
+  "dashboardTitle": "Dashboard [Jenkins]",
+
+  "demoUI": {
+    "demoUITabText": "DemoUI",
+    "demoUIPageTitle": "DemoUI [Jenkins]"
+  }
+}
